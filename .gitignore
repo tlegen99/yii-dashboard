@@ -14,3 +14,7 @@ composer.phar
 
 # Mac DS_Store Files
 .DS_Store
+
+mix-manifest.json
+
+package-lock.json
