@@ -4,6 +4,8 @@
 # composer vendor dir
 /vendor
 
+/node_modules
+
 # DB
 /tmp
 
